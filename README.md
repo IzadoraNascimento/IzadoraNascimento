@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Izadora Nascimento, e é um prazer ter você por aqui! 👋🏼<br><br>Sou uma pessoa apaixonada por diversas coisas na vida, entre elas a maquiagem, minha família e amigos, e a tecnologia. Essas são algumas das coisas que me definem, mas estou sempre aberta a novas experiências e aprendizados.<br><br>😄 Pronome: ela/dela<br>💛 Aluna da nona geração da Laboratória<br>👩🏽‍💻 Desenvolvedora front-end
+Olá, me chamo Izadora Nascimento, e é um prazer ter você por aqui! 👋🏼<br><br>Sou uma pessoa apaixonada por diversas coisas na vida, entre elas a maquiagem, minha família e amigos, e a tecnologia. Essas são algumas das coisas que me definem, mas estou sempre aberta a novas experiências e aprendizados.<br><br>😄 Pronome: ela/dela<br>💛 Aluna da nona geração da [!Laboratória](https://www.linkedin.com/school/laboratoria/)<br>👩🏽‍💻 Desenvolvedora front-end
 
 
 ## 🌐 Socials:
